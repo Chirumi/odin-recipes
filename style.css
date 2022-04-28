@@ -1,0 +1,24 @@
+.title {
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+.image {
+    height: auto;
+    width: 400px;
+    flex: auto;
+    justify-content: center;
+}
+
+#second {
+    font-size: medium;
+}
+
+#first {
+    font-size: larger;
+}
+
+.listone {
+    text-align: center;
+}
